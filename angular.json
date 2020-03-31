@@ -1,6 +1,6 @@
 {
   "$schema": "./node_modules/@angular/cli/lib/config/schema.json",
-  "version": 1, 
+  "version": 1,
   "newProjectRoot": "projects",
   "projects": {
     "lab-prograd-contacts": {
@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "lab-prograd-contacts"
+    }
+  },
+  "defaultProject": "lab-prograd-contacts",
+  "cli": {
+    "analytics": "04fc7abc-a3fd-41f0-a082-3f7db7128613"
+  }
 }
